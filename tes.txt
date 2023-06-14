@@ -1,0 +1,25 @@
+01 manajemen
+02 Organisasi
+03 Akutansi Biaya
+04 Manajemen Keuangan
+05 Manajemen Operasi
+06 Hukum Bisnis
+07 Manajemen Informasi
+08 Manajemen Kualitas
+Teknik
+04 Ekonomi Teknik
+03 Mekanika Teknik 1
+05 Fisika dasar 1
+01 Statistik Dasar 
+08 K3 
+07 Pemograman Linier
+Komputer
+08 SPSS MANAJEMEN STATISTIK
+07 Microsoft Excell
+06 Macro Excel
+05 MICROSOFT VISIO
+04 HTML, CSS, JAVA SCRIPT 
+03 Github
+
+<div class="parallax-window" data-parallax="scroll" data-image-src="img/simple-house-01.jpg">
+<li class="tm-nav-li"><a href="index.html" class="tm-nav-link active">Home</a></li>
